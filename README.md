@@ -2,7 +2,6 @@
 
 Bond Analysis Tool
 
-Description
 The Bond Analysis Tool is a Python-based project that provides a set of utilities for analyzing bonds and yield curves. This tool is designed to assist financial analysts, investors, and enthusiasts in performing bond-related calculations and modeling.
 
 Features
