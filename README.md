@@ -1,6 +1,6 @@
 # Modeling-Bond-Cash-Flows-with-Forward-Curves
 
-Bond Analysis Tool
+Bond Analysis Tool.
 
 The Bond Analysis Tool is a Python-based project created to facilitate bond analysis for financial professionals and investors. This tool offers a range of functionalities for in-depth bond analysis, including yield curve fitting, Nelson-Siegel modeling, duration calculation, convexity calculation, and forward pricing estimation. It is a valuable resource for gaining insights into bond prices, yields, and risk metrics, making it particularly useful for making informed investment decisions and financial modeling.
 
