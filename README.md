@@ -19,3 +19,4 @@ Forward Rate Analysis: Analyze the impact of changes in forward rates on bond pr
 Duration and Convexity Calculation: Calculate Macaulay duration and convexity to assess interest rate risk.
 
 Forward Bond Pricing: Estimate the forward price of a bond at a specified future date.
+
